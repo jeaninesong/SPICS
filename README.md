@@ -32,7 +32,7 @@ python evaluation.py --sec 1 --rf LDA_output_file
 
 #### To test the powerbi part:
 
-#### You can open the Powerbi file, and there is a user manual for guidance. 
+#### You can open the Powerbi file, and there is a user manual for detailed guidance. 
 
 ## Citation
 
