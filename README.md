@@ -5,7 +5,7 @@
 ## Requirements
 
 #### The codes have been tested with the following packages:
-#### + Python 3.6
+#### * Python 3.6
 
 ## Quick Demo
 
