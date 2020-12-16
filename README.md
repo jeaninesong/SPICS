@@ -11,7 +11,7 @@
 
 ## Quick Demo
 
-#### To run the model, clone the repo and decompress the demo data archive by executing the following commands:
+#### To run the model including data processing, clone the repo and decompress the demo data archive by executing the following commands:
 
 ``` 
 git clone git@github.com:jeaninesong/SPICS.git
@@ -29,6 +29,10 @@ python evaluation.py --sec 1 --rf LDA_output_file
 ``` 
 ##### --sec 1 is for the evaluation of section level in SIC code, --sec 0 is for the division level in SIC code. 
 
+
+#### To test the powerbi part:
+
+#### You can open the Powerbi file, and there is a user manual for guidance. 
 
 ## Citation
 
