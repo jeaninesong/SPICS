@@ -11,15 +11,18 @@
 
 #### To run the model, clone the repo and decompress the demo data archive by executing the following commands:
 
-``` git clone git@github.com:jeaninesong/SPICS.git
-``` cd LDA
-``` python LDA.py
+``` 
+git clone git@github.com:jeaninesong/SPICS.git
+cd LDA
+python LDA.py
+```
 
 #### To run the evaluation:
 
-``` cd Evaluation
-``` python evaluation.py
-
+``` 
+cd Evaluation
+python evaluation.py
+``` 
 
 ## Citation
 
