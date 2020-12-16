@@ -11,7 +11,7 @@
 
 ## Quick Demo
 
-#### To run the model including data processing, clone the repo and decompress the demo data archive by executing the following commands:
+#### To run the model (including data processing), clone the repo and decompress the demo data archive by executing the following commands:
 
 ``` 
 git clone git@github.com:jeaninesong/SPICS.git
