@@ -30,7 +30,7 @@ python evaluation.py --sec 1 --rf LDA_output_file
 ##### --sec 1 is for the evaluation of section level in SIC code, --sec 0 is for the division level in SIC code. 
 
 
-#### To test the powerbi part:
+#### To use the powerbi software:
 
 #### You can open the Powerbi file. The SPICS.pbix is the powerbi report and there is a user manual (.pdf) for detailed guidance. 
 
