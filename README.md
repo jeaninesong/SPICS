@@ -1,6 +1,6 @@
 # SPICS: An Unsupervised Framework for Analysingthe Spatiotemporal Evolution of Industry Clusters 
 
-#### This repo contains the Python implementation of the paper SPICS: An Unsupervised Framework for Analysingthe Spatiotemporal Evolution of Industry Clusters in INFORMS (Software Tool)
+#### This repo contains the Python implementation of the paper SPICS: An Unsupervised Framework for Analysingthe Spatiotemporal Evolution of Industry Clusters in IJOC (Software Tool)
 
 ## Requirements
 
